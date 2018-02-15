@@ -1,6 +1,7 @@
 ### P1:Statistics---Stroop task
-**Submission report: Chinese**
-**Keywords: stroop, statistical test, null hypothesis, confidence level, t-value**
+
+- **Submission report: Chinese**
+- **Keywords: stroop, statistical test, null hypothesis, confidence level, t-value**
 
 Perform a statstical test on a Stroop task experiment, and Udacity provided a given dataset, which contains results from a number of participants in the task.
 - Report descriptive statstics on the dataset.
